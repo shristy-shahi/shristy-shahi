@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Second-Year Student | Aspiring Data Scientist | Web Developer<br><br>💻 Tech Stack: HTML, CSS, Java, DBMS, OS<br>📊 Exploring: Python, Machine Learning, Data Analytics<br>🚀 Currently Learning: Data Science Fundamentals, DSA in Java<br>📜 Certifications: Prodigy Infotech Web Development Internship<br>🎯 Goal: To leverage data science and technology 
+🎓 Third-Year Student | Aspiring Data Scientist | Web Developer<br><br>💻 Tech Stack: HTML, CSS, Java, DBMS, OS<br>📊 Exploring: Python, Machine Learning, Data Analytics<br>🚀 Currently Learning: Data Science Fundamentals, DSA in Java<br>📜 Certifications: Prodigy Infotech Web Development Internship<br>🎯 Goal: To leverage data science and technology 
 
 
 ## 🌐 Socials:
