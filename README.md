@@ -1,38 +1,32 @@
-# Hi there! 👋 I'm Shristy Shahi
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F77DD&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Shristy+Shahi+👋;Aspiring+Data+Scientist+🧠;Web+Developer+⚛️;AI+Enthusiast+🚀;Building+the+future+with+Data!)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=shristy-shahi&label=Profile+Views&color=7F77DD&style=flat-square" alt="Profile Views" />
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/shristy-shahi?label=Followers&style=flat-square&color=1D9E75)](https://github.com/shristy-shahi)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7F77DD?style=flat-square&logo=vercel)](https://hyperdrive-portfolio-main.vercel.app/)
+
+</div>
+
+---
 
 ```java
 // 💫 whoami
 public class ShristyShahi {
 
-    String name              = "Shristy Shahi";
-    String title             = "Aspiring Data Scientist | Web Developer | AI Enthusiast";
-    String location          = "Gujarat, India 🇮🇳";
-    String portfolio         = "https://hyperdrive-portfolio-main.vercel.app/";
-    String email             = "shristyshahi3032005@gmail.com";
-    String github            = "https://github.com/shristy-shahi";
+    String name     = "Shristy Shahi";
+    String title    = "Aspiring Data Scientist | Web Developer | AI Enthusiast";
+    String location = "Gujarat, India 🇮N";
+    String email    = "shristyshahi3032005@gmail.com";
+    String portfolio= "https://hyperdrive-portfolio-main.vercel.app/";
 
-    // 📊 Data Science & Analytics (Primary)
-    String[] dataScienceStack = {"Python", "Pandas", "NumPy", "Scikit-Learn", 
-                                  "Google Data Analytics", "Power BI", "Data Visualization"};
-
-    // ☁️ Cloud & DevOps
-    String[] cloudStack       = {"Cloud Computing", "NPTEL (IIT Kharagpur)", 
-                                  "AWS Basics", "Docker"};
-
-    // 💻 Backend & Programming
-    String[] programmingStack = {"C", "C++", "OOPs", "Data Structures", 
-                                  "Algorithms", "Python", "FastAPI"};
-
-    // ⚛️ Frontend & Web
-    String[] frontendStack    = {"HTML5", "CSS3", "JavaScript", "React", "Next.js"};
-
-    // 🏆 Key Achievements
-    String[] achievements = {
-        "🎓 Google Data Analytics Professional Certificate (Sep 2025)",
-        "☁️ Cloud Computing Certification - NPTEL IIT Kharagpur (Apr 2025)",
-        "💼 ESG Job Simulation - Tata Group via Forage (Dec 2024)",
-        "🔧 C++ OOPs & DSA Mastery - CSE Pathshala (Aug 2025)",
-        "💪 C Programming Advanced Concepts - CSE Pathshala (Mar 2024)"
+    String[] currentlyBuilding = {
+        "🏥 RAG-Based Medical System",
+        "🌾 Agro-AI Pipeline",
+        "🎨 Artworks Showcase",
+        "📚 Neolib Library"
     };
 
     public static void main(String[] args) {
@@ -43,66 +37,49 @@ public class ShristyShahi {
 
 ---
 
-## 🚀 Currently Working On & Learning
+## 🛠️ Tech Arsenal
 
-| 🎯 Project | 💡 Focus | 🛠️ Stack |
-|-----------|----------|---------|
-| **RAG-Based Medical System** | Intelligent medical query retrieval & analysis | Python • LangChain • Vector DB |
-| **Agro-AI Pipeline** | AI-driven agricultural insights & crop monitoring | Python • ML • Data Analysis |
-| **Artworks Showcase** | Digital portfolio & creative expression | React • Next.js • Three.js |
-| **Neolib** | Custom library development | Python • C++ |
+<div align="center">
 
----
+### 🧠 Data Science & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-## 🎓 Certifications & Credentials
-
-### 📊 Data & Analytics
-- **Google Data Analytics Professional Certificate** (Coursera, Sep 2025)
-  - Data analysis, visualization, and insights
-
-- **Cloud Computing** (NPTEL - IIT Kharagpur, Apr 2025)
-  - Credential ID: NPTEL25CS11S1047500810
-  - Cloud infrastructure & deployment concepts
-
-### 💼 Professional Development
-- **Environmental, Social, and Governance (ESG) Job Simulation** (Tata Group via Forage, Dec 2024)
-  - Real-world ESG analysis & reporting experience
-
-### 💻 Programming & Core Skills
-- **C++ Programming: OOPs & DSA** (CSE Pathshala, Aug 2025)
-  - Object-Oriented Programming, Data Structures, Algorithms
-  - Credential ID: CP-20250607-ICPP-143
-
-- **Mastering C Programming: Basics to Advanced** (CSE Pathshala, Mar 2024)
-  - Core programming fundamentals & advanced concepts
-  - Credential ID: CP-20240203-CP225
-
----
-
-## ⚡ Tech Arsenal
-
-### 🧠 Data Science & AI (Primary Stack)
-`Python` • `Pandas` • `NumPy` • `Scikit-Learn` • `Data Analysis` • `Machine Learning` • `RAG` • `Vector Databases`
-
-### ☁️ Cloud & DevOps
-`Cloud Computing` • `AWS Basics` • `Docker` • `Linux`
+### ⚛️ Frontend & Web
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 💻 Backend & Programming
-`C` • `C++` • `OOPs` • `Data Structures` • `Algorithms` • `Python` • `FastAPI` • `Flask`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### ⚛️ Frontend & Web Development
-`HTML5` • `CSS3` • `JavaScript` • `React` • `Next.js` • `Three.js` • `Responsive Design`
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📊 Analytics & Visualization
-`Power BI` • `Data Visualization` • `Excel` • `Google Analytics`
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</div>
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 Featured Projects
 
 | 🚀 Project | 💡 Description | 🛠️ Stack |
 |-----------|---------------|---------|
-| **🏥 RAG-Based Medical System** | Intelligent retrieval & analysis of medical queries using advanced AI | Python • LangChain • Vector DB • AI |
+| **🏥 RAG Medical System** | Intelligent retrieval & analysis of medical queries using advanced AI | Python • LangChain • Vector DB |
 | **🌾 Agro-AI** | AI-powered agricultural insights for crop health & pest monitoring | Python • ML • Data Science |
 | **🎨 Artworks** | Creative digital portfolio showcasing design & artistic vision | React • Next.js • Three.js |
 | **📚 Neolib** | Custom utility library for common programming tasks | Python • C++ |
@@ -111,43 +88,59 @@ public class ShristyShahi {
 
 ## 📈 GitHub Stats
 
-```
-📊 Contributions & Collaborations
-🔧 Open Source Enthusiast
-🚀 Building Production-Ready Solutions
-```
+<div align="center">
 
-### 🐍 Contribution Activity
-- Regular commits & continuous learning
-- Contributing to personal projects & portfolio
-- Exploring AI, Data Science, and Web Development
+<img src="https://github-readme-stats.vercel.app/api?username=shristy-shahi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shristy-shahi&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 
----
-
-## 💬 Let's Connect! 🤝
+</div>
 
 <div align="center">
 
-**📧 Email:** shristyshahi3032005@gmail.com  
-**🔗 Portfolio:** [hyperdrive-portfolio-main.vercel.app](https://hyperdrive-portfolio-main.vercel.app/)  
-**💼 GitHub:** [github.com/shristy-shahi](https://github.com/shristy-shahi)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shristy-shahi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
----
+</div>
 
-### Open to:
-✅ Collaboration on AI & Data Science projects  
-✅ Freelance & Full-time opportunities  
-✅ Building amazing tech solutions together  
+<div align="center">
 
-**⭐ Star my repos if helpful!**  
-**🚀 Let's build the future together!**
+<img src="https://raw.githubusercontent.com/shristy-shahi/shristy-shahi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
 ---
 
+## 🎓 Certifications
+
+| 🏆 Certificate | 🏛️ Issuer | 📅 Date |
+|---------------|----------|--------|
+| Google Data Analytics Professional | Coursera | Sep 2025 |
+| Cloud Computing | NPTEL - IIT Kharagpur | Apr 2025 |
+| ESG Job Simulation | Tata Group via Forage | Dec 2024 |
+| C++ OOPs & DSA | CSE Pathshala | Aug 2025 |
+| Mastering C Programming | CSE Pathshala | Mar 2024 |
+
+---
+
+## 💬 Let's Connect!
+
 <div align="center">
 
-### 🌟 "Data tells stories, Code builds solutions" 🌟
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F77DD?style=for-the-badge&logo=vercel&logoColor=white)](https://hyperdrive-portfolio-main.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shristy-shahi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shristyshahi3032005@gmail.com)
+
+---
+
+### Open to:
+✅ Collaboration on AI & Data Science projects
+✅ Freelance & Full-time opportunities
+✅ Building amazing tech solutions together
+
+**⭐ Star my repos if you find them helpful!**
+
+---
+
+### 🌟 *"Data tells stories, Code builds solutions"* 🌟
 
 </div>
